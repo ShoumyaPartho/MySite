@@ -1,4 +1,24 @@
 body{
-  background-color: powderblue;
-  text-align: center;
+  margin: 0;
+}
+.topCo{
+  background-color: #E19898;
+  border: 10px solid black;
+  padding: 20px;
+  height: 200px;
+  width: 200px;
+}
+.midCo{
+  background-color: #f10d0d;
+  border: 20px solid black;
+  margin-left: 260px;
+  height: 200px;
+  width: 200px;
+}
+.botCo{
+  background-color: #f1fd03;
+  border: 10px solid black;
+  margin-left: 500px;
+  height: 200px;
+  width: 200px;
 }
